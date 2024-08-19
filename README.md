@@ -13,5 +13,5 @@
 5. Start the bot --  yarn start
 
 
-
+# NOTE -- THIS IS THE FREE VERSION of the PFSUITE and charges 5% trade fee 
 
